@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, I'm liam. 
 
-<!--
-**lbeckman314/lbeckman314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Smile icon](icon-smile.svg)
 
-Here are some ideas to get you started:
+I’m a sleepy human with a dark history of secrets and intrigue.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have a good book or movie recommendation or just want to chat? I’m available at [liam@liambeckman.com](mailto:liam@liambeckman.com)
+
+---
+
+Are you looking for a plucky developer with a small propensity for segmentation faults? Here are some links of interest —
+
+- [Resume (PDF)](https://liambeckman.com/pkgs/resume/resume-liam-beckman.pdf)
+- [Resume (LaTeX source)](https://github.com/lbeckman314/resume)
+- [Github](https://github.com/lbeckman314)
+- [Gitea](https://git.liambeckman.com/liam)
+- [LinkedIn](https://www.linkedin.com/in/liam-beckman-ab3183a6)
