@@ -13,3 +13,7 @@ Are you looking for a plucky developer with a small propensity for segmentation 
 - [Resume (PDF)](https://raw.githubusercontent.com/lbeckman314/resume/master/build/resume-liam-beckman.pdf)
 - [Github](https://github.com/lbeckman314)
 - [LinkedIn](https://www.linkedin.com/in/liam-beckman-ab3183a6)
+
+---
+
+[![Liams's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbeckman314)](https://github.com/anuraghazra/github-readme-stats)
