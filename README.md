@@ -20,10 +20,7 @@ Are you looking for a plucky developer with a small propensity for segmentation 
 
 ---
 
-TIL GitHub renders STL Files!
-> https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
-
-HUMANOID Example by John Burkardt
+TIL GitHub renders [STL Files](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams) — HUMANOID Example by John Burkardt
 > https://people.sc.fsu.edu/~jburkardt/data/stla/stla.html
 
 ```stl
