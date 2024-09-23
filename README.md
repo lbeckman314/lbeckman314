@@ -18,6 +18,14 @@ Are you looking for a plucky developer with a small propensity for segmentation 
 
 [![Liams's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbeckman314)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+TIL GitHub renders STL Files!
+> https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
+
+HUMANOID Example by John Burkardt
+> https://people.sc.fsu.edu/~jburkardt/data/stla/stla.html
+
 ```stl
 solid MYSOLID created by IVCON, original data in file.obj
   facet normal 1.000000 0.000000 0.000000
