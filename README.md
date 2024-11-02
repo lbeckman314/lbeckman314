@@ -16,7 +16,7 @@ Are you looking for a plucky developer with a small propensity for segmentation 
 
 ---
 
-[![Liams's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbeckman314)](https://github.com/anuraghazra/github-readme-stats)
+[![Liams's GitHub stats](https://github-readme-stats.vercel.app/api?theme=synthwave&show_icons=true&hide_border=false&count_private=true&username=lbeckman314)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
