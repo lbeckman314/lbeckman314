@@ -16,7 +16,7 @@ Are you looking for a plucky developer with a small propensity for segmentation 
 
 ---
 
-[![Liams's GitHub stats](https://github-readme-stats.vercel.app/api?theme=synthwave&show_icons=true&hide_border=false&count_private=true&username=lbeckman314)](https://github.com/anuraghazra/github-readme-stats)
+[![Liams's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=lbeckman314)](https://github.com/Pranesh-2005/Github-readme-stats-fast)]
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg">
  
