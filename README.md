@@ -4,7 +4,7 @@
 
 I’m a sleepy human with a dark history of secrets and intrigue.
 
-Have a good book or movie recommendation or just want to chat? I’m available at [liam@liambeckman.com](mailto:liam@liambeckman.com)
+Have a good book or movie recommendation or just want to chat? I’m available at [lbeckman314@gmail.com](mailto:lbeckman314@gmail.com)
 
 ---
 
