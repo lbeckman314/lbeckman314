@@ -1,4 +1,4 @@
-# Hello, I'm liam. 
+# Hello, I'm Liam!
 
 ![Smile icon](icon-smile.svg)
 
