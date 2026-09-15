@@ -10,7 +10,7 @@ Have a good book or movie recommendation or just want to chat? I’m available a
 
 Are you looking for a plucky developer with a small propensity for segmentation faults? Here are some links of interest —
 
-- [Resume (PDF)](https://raw.githubusercontent.com/lbeckman314/resume/master/build/resume-liam-beckman.pdf)
+- [Resume (PDF)](https://github.com/lbeckman314/resume/releases/latest/download/resume.pdf)
 - [Github](https://github.com/lbeckman314)
 - [LinkedIn](https://www.linkedin.com/in/liam-beckman-ab3183a6)
 
