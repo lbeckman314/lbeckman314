@@ -2,7 +2,7 @@
 
 ![Smile icon](icon-smile.svg)
 
-I'm a backend and platform engineer in Portland, OR. I build distributed task-execution systems and cloud infrastructure, currently for genomic research at OHSU's Knight Cancer Institute.
+I'm a full-stack software engineer in Portland, OR. I build web apps, APIs, and the cloud infrastructure they run on. At OHSU's Knight Cancer Institute that means distributed task-execution systems for genomic research; on my own time it's browser-based tools, websites, and small experiments.
 
 **What I work on**
 
@@ -12,11 +12,18 @@ I'm a backend and platform engineer in Portland, OR. I build distributed task-ex
 - 📦 **[DRS Downloader](https://github.com/anvilproject/drs_downloader)** (Go): parallel downloader for GA4GH DRS data on NIH AnVIL / Terra
 - ☸️ Kubernetes, Helm, and Terraform for a cancer research data commons across AWS, Azure, and OpenStack
 
+**On the web side**
+
+- 🖥️ **[demonic-web](https://github.com/lbeckman314/demonic-web)** + **[demonic-server](https://github.com/lbeckman314/demonic-server)** (JavaScript): an in-browser terminal that lets visitors try command-line programs live over WebSockets
+- 🧫 **[convida](https://github.com/lbeckman314/convida)** (Rust → WebAssembly): Conway's Game of Life running in the browser
+- 🌐 **[liambeckman.com](https://github.com/lbeckman314/lbeckman314.github.io)** (Astro): my personal site and blog
+
 **Tools I use most**
 
-Go · Python · Kubernetes · Helm · Terraform · AWS · Docker · PostgreSQL · GitHub Actions · gRPC
-
-Also: TypeScript, Java, Rust, Nextflow, HL7 FHIR
+- **Backend:** Go · Python · gRPC/REST · PostgreSQL · Elasticsearch
+- **Frontend:** TypeScript · JavaScript · HTML/CSS · Astro · WebAssembly
+- **Platform:** Kubernetes · Helm · Terraform · AWS · Docker · GitHub Actions
+- **Also:** Java · Rust · Nextflow · HL7 FHIR
 
 **Writing & talks**
 
