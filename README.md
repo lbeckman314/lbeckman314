@@ -8,25 +8,29 @@ I'm a software engineer in Portland, OR. Until June 2026 I was a research softwa
 
 Projects I've worked on professionally!
 
-- [Funnel](https://github.com/calypr/funnel): a toolkit for distributed task execution via a simple, standard API ([GA4GH TES](https://github.com/ga4gh/task-execution-schemas))
-- [nf-ga4gh](https://github.com/nextflow-io/nf-ga4gh): GA4GH plugin for Nextflow, so pipelines can run on Funnel and other TES servers
-- [py-tes](https://github.com/calypr/py-tes): Python SDK for the GA4GH Task Execution API
-- [DRS Downloader](https://github.com/anvilproject/drs_downloader): download tool for AnVIL/TDR data identified by DRS URIs
-- [fhir-aggregator-client](https://github.com/FHIR-Aggregator/fhir-aggregator-client): query FHIR servers for local analysis
+| Project | Description | Links |
+|---|---|---|
+| 🧬 Funnel | A toolkit for distributed task execution via a simple, standard API (GA4GH TES) | [repo](https://github.com/calypr/funnel) |
+| 🔌 nf-ga4gh | GA4GH plugin for Nextflow, so pipelines can run on Funnel and other TES servers | [repo](https://github.com/nextflow-io/nf-ga4gh) |
+| 🐍 py-tes | Python SDK for the GA4GH Task Execution API | [repo](https://github.com/calypr/py-tes) |
+| 📦 DRS Downloader | Download tool for AnVIL/TDR data identified by DRS URIs | [repo](https://github.com/anvilproject/drs_downloader) |
+| 🔥 fhir-aggregator-client | Query FHIR servers for local analysis | [repo](https://github.com/FHIR-Aggregator/fhir-aggregator-client) |
 
 ### Personal
 
 Projects I've worked on personally!
 
-- [apod-grid](https://github.com/lbeckman314/apod-grid): NASA's APOD on one page! 🪐 ([demo](https://liambeckman.com/apod-grid/))
-- [wiki-space](https://github.com/lbeckman314/wiki-space): see real-time edits of Wikipedia around the world 🌎 ([demo](https://liambeckman.com/wiki-space/))
-- [halley](https://github.com/lbeckman314/halley): countdown to Halley's Comet! ☄️ ([demo](https://halley.liambeckman.com/))
-- [demonic-web](https://github.com/lbeckman314/demonic-web): a pseudo-terminal and a pseudo-shell, for my pseudo-programs! 🐚 ([demo](https://liambeckman.com/projects/demonic/))
-- [convida](https://github.com/lbeckman314/convida): Conway's Game of Life powered by WebAssembly! 👾 ([demo](https://convida.liambeckman.com/))
-- [mdbook-latex](https://github.com/lbeckman314/mdbook-latex): an mdBook backend for generating LaTeX and PDF documents 📚
-- [tao-te-ching](https://github.com/lbeckman314/tao-te-ching): my copy of Ursula K. Le Guin's 1997 translation of the Tao Te Ching ☯️ ([demo](https://liambeckman.com/tao-te-ching/))
-- [running-around-portland](https://github.com/lbeckman314/running-around-portland): *Running Around Portland* by John Perry, Buzz Willits, and Ancil Nance (1979) 🌲 ([demo](https://liambeckman.com/running-around-portland/))
-- [withfeathers](https://github.com/lbeckman314/withfeathers): print a poem by Emily! 🪶 ([demo](https://withfeathers.liambeckman.com/))
+| Project | Description | Links |
+|---|---|---|
+| 🪐 apod-grid | NASA's APOD on one page! | [repo](https://github.com/lbeckman314/apod-grid) · [demo](https://liambeckman.com/apod-grid/) |
+| 🌎 wiki-space | See real-time edits of Wikipedia around the world | [repo](https://github.com/lbeckman314/wiki-space) · [demo](https://liambeckman.com/wiki-space/) |
+| ☄️ halley | Countdown to Halley's Comet! | [repo](https://github.com/lbeckman314/halley) · [demo](https://halley.liambeckman.com/) |
+| 🐚 demonic-web | A pseudo-terminal and a pseudo-shell, for my pseudo-programs! | [repo](https://github.com/lbeckman314/demonic-web) · [demo](https://liambeckman.com/projects/demonic/) |
+| 👾 convida | Conway's Game of Life powered by WebAssembly! | [repo](https://github.com/lbeckman314/convida) · [demo](https://convida.liambeckman.com/) |
+| 📚 mdbook-latex | An mdBook backend for generating LaTeX and PDF documents | [repo](https://github.com/lbeckman314/mdbook-latex) |
+| ☯️ tao-te-ching | My copy of Ursula K. Le Guin's 1997 translation of the Tao Te Ching | [repo](https://github.com/lbeckman314/tao-te-ching) · [demo](https://liambeckman.com/tao-te-ching/) |
+| 🌲 running-around-portland | *Running Around Portland* by John Perry, Buzz Willits, and Ancil Nance (1979) | [repo](https://github.com/lbeckman314/running-around-portland) · [demo](https://liambeckman.com/running-around-portland/) |
+| 🪶 withfeathers | Print a poem by Emily! | [repo](https://github.com/lbeckman314/withfeathers) · [demo](https://withfeathers.liambeckman.com/) |
 
 ### Writing and talks
 
