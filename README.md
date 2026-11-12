@@ -32,7 +32,7 @@ I'm a full-stack software engineer in Portland, OR. I build web apps, APIs, and 
 
 ---
 
-📄 [Resume (PDF)](https://github.com/lbeckman314/resume/releases/latest/download/resume.pdf) · 🌐 [liambeckman.com](https://liambeckman.com) · 💼 [LinkedIn](https://www.linkedin.com/in/liam-beckman-ab3183a6) · ✉️ [lbeckman314@gmail.com](mailto:lbeckman314@gmail.com)
+📄 [Resume (PDF)](https://github.com/lbeckman314/resume/releases/latest/download/resume-liam-beckman.pdf) · 🌐 [liambeckman.com](https://liambeckman.com) · 💼 [LinkedIn](https://www.linkedin.com/in/liam-beckman-ab3183a6) · ✉️ [lbeckman314@gmail.com](mailto:lbeckman314@gmail.com)
 
 Have a good book or movie recommendation? I'm always happy to chat.
 
