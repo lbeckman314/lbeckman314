@@ -2,7 +2,7 @@
 
 <img src="icon-smile.svg" alt="Smile icon" width="100" height="100" />
 
-I'm a software engineer in Portland, OR. Until June 2026 I was a research software engineer at OHSU's Knight Cancer Institute, where I was the lead developer of [Funnel](https://github.com/calypr/funnel) and ran the Kubernetes platform for the lab's data commons. I also make little websites about things I like, which you can find at [liambeckman.com](https://liambeckman.com).
+I'm a software engineer in Portland, OR. I enjoy making little websites about things I like, which you can find at [liambeckman.com](https://liambeckman.com)!
 
 ### Professional
 
