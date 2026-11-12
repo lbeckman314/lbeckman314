@@ -2,7 +2,7 @@
 
 ![Smile icon](icon-smile.svg)
 
-I'm a full-stack software engineer in Portland, OR. I build web apps, APIs, and the cloud infrastructure they run on. At OHSU's Knight Cancer Institute that means distributed task-execution systems for genomic research; on my own time it's browser-based tools, websites, and small experiments.
+I'm a full-stack software engineer based in Portland, OR — I build web apps, APIs, and the cloud infrastructure they run on!
 
 **What I work on**
 
